@@ -16,6 +16,7 @@ MCP, A2A, tool/function calling — the standards and integrations that let agen
 <!-- add: MCP spec, A2A, tool schemas, ... -->
 - **[Model Context Protocol](https://github.com/modelcontextprotocol/modelcontextprotocol)** — specification and documentation for MCP, the open standard connecting agents to tools. `mcp`
 - **[MCP Apps](https://github.com/modelcontextprotocol/ext-apps)** — spec and SDK for interactive UIs embedded in chatbots, served by MCP servers. `mcp` `ui`
+- **[AG-UI](https://github.com/ag-ui-protocol/ag-ui)** — event-based protocol connecting agents to user-facing applications; complements MCP and A2A. `ui`
 
 ## Benchmarks & Leaderboards
 <!-- tool-calling / function-calling benchmarks, ... -->
