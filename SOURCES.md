@@ -7,10 +7,10 @@ Keep descriptions factual — the curator verifies everything before anything la
 ## Orgs
 | Source | Focus | Last checked |
 | :-- | :-- | :-- |
-| [langchain-ai](https://github.com/langchain-ai) | LangChain, LangGraph — agent orchestration → `frameworks` | never |
-| [crewAIInc](https://github.com/crewAIInc) | CrewAI — role-based multi-agent framework → `frameworks` | never |
-| [anthropics](https://github.com/anthropics) | Claude Agent SDK, Claude Code, agent tooling → `frameworks` / `protocols` | never |
-| [modelcontextprotocol](https://github.com/modelcontextprotocol) | MCP spec, SDKs, reference servers → `protocols` | never |
+| [langchain-ai](https://github.com/langchain-ai) | LangChain, LangGraph — agent orchestration → `frameworks` | 2026-07-11 |
+| [crewAIInc](https://github.com/crewAIInc) | CrewAI — role-based multi-agent framework → `frameworks` | 2026-07-11 |
+| [anthropics](https://github.com/anthropics) | Claude Agent SDK, Claude Code, agent tooling → `frameworks` / `protocols` | 2026-07-11 |
+| [modelcontextprotocol](https://github.com/modelcontextprotocol) | MCP spec, SDKs, reference servers → `protocols` | 2026-07-11 |
 
 ## Experts / users to follow
 | Source | Who / focus | Last checked |
@@ -25,6 +25,6 @@ Keep descriptions factual — the curator verifies everything before anything la
 ## Repos (single)
 | Source | Why | Last checked |
 | :-- | :-- | :-- |
-| [microsoft/autogen](https://github.com/microsoft/autogen) | Programming framework for agentic AI → `frameworks` | never |
-| [huggingface/smolagents](https://github.com/huggingface/smolagents) | Barebones library for agents that think in code → `frameworks` | never |
-| [openai/openai-agents-python](https://github.com/openai/openai-agents-python) | OpenAI Agents SDK — lightweight multi-agent workflows (successor to Swarm) → `frameworks` | never |
+| [microsoft/autogen](https://github.com/microsoft/autogen) | Programming framework for agentic AI → `frameworks` | 2026-07-11 |
+| [huggingface/smolagents](https://github.com/huggingface/smolagents) | Barebones library for agents that think in code → `frameworks` | 2026-07-11 |
+| [openai/openai-agents-python](https://github.com/openai/openai-agents-python) | OpenAI Agents SDK — lightweight multi-agent workflows (successor to Swarm) → `frameworks` | 2026-07-11 |
