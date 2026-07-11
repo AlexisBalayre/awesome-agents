@@ -15,12 +15,20 @@ Agent and multi-agent frameworks: orchestration, coordination, role-based system
 
 ## Protocols & Standards
 <!-- framework-level interop conventions, agent definition formats, ... -->
+- **[AGENTS.md](https://github.com/agentsmd/agents.md)** — open Markdown convention for giving coding agents project-specific instructions. `code-agents`
+- **[Agent Protocol](https://github.com/langchain-ai/agent-protocol)** — framework-agnostic APIs for serving agents in production: runs, threads, store. `interop`
+- **[OASF](https://github.com/agntcy/oasf)** — standardized schema system for defining agent capabilities, interactions, and metadata. `interop`
 
 ## Benchmarks & Leaderboards
 <!-- framework comparisons, orchestration benchmarks, ... -->
 
 ## Papers & Research
 <!-- key papers -->
+- **[Why Do Multi-Agent LLM Systems Fail?](https://arxiv.org/abs/2503.13657)** — MAST failure taxonomy: 14 failure modes from 1,600+ traces across 7 multi-agent frameworks. `multi-agent`
+- **[Generative Agents](https://arxiv.org/abs/2304.03442)** — interactive simulacra: 25 agents with memory, reflection, and planning in a simulated town. `multi-agent` `simulation`
+- **[CAMEL](https://arxiv.org/abs/2303.17760)** — role-playing framework where communicative agents cooperate autonomously via inception prompting. `multi-agent`
+- **[Reflexion](https://arxiv.org/abs/2303.11366)** — agents that self-improve via verbal self-reflection stored in episodic memory. `self-reflection`
+- **[ReAct](https://arxiv.org/abs/2210.03629)** — interleaved reasoning traces and actions; the foundational agent-loop pattern. `reasoning` `tool-calling`
 
 ## Learning
 <!-- tutorials, explainers -->
