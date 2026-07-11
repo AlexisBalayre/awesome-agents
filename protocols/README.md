@@ -19,12 +19,23 @@ MCP, A2A, tool/function calling — the standards and integrations that let agen
 
 ## Benchmarks & Leaderboards
 <!-- tool-calling / function-calling benchmarks, ... -->
+- **[Berkeley Function-Calling Leaderboard](https://gorilla.cs.berkeley.edu/leaderboard.html)** — de-facto leaderboard scoring LLMs on function-calling accuracy, from single calls to multi-turn agentic tasks. `tool-calling`
+- **[τ²-bench](https://github.com/sierra-research/tau2-bench)** — Sierra's benchmark for tool-agent-user interaction, extending τ-bench with dual-control conversations. `tool-calling` `multi-turn`
+- **[ToolBench](https://github.com/OpenBMB/ToolBench)** — tool-learning platform and benchmark over 16,000+ real-world APIs, from the ToolLLM paper. `tool-calling`
+- **[MCP-Universe](https://github.com/SalesforceAIResearch/MCP-Universe)** — Salesforce benchmark and RL framework grounding agents in real-world MCP servers. `mcp` `tool-calling`
 
 ## Papers & Research
 <!-- key papers -->
+- **[Model Context Protocol: Landscape, Security Threats, and Future Research Directions](https://arxiv.org/abs/2503.23278)** — systematic study of the MCP ecosystem, server lifecycle, and security threat taxonomy. `mcp` `security`
+- **[Gorilla](https://arxiv.org/abs/2305.15334)** — retrieval-aware fine-tuned LLaMA for accurate API calls; origin of the BFCL leaderboard. `tool-calling`
+- **[Toolformer](https://arxiv.org/abs/2302.04761)** — self-supervised method teaching language models when and how to call external APIs. `tool-calling`
 
 ## Learning
 <!-- tutorials, explainers -->
+- **[Hugging Face MCP Course](https://huggingface.co/learn/mcp-course)** — free certification course on MCP theory and practice, built with Anthropic. `mcp`
+- **[Anthropic Academy: Introduction to MCP](https://anthropic.skilljar.com/introduction-to-model-context-protocol)** — Anthropic's free course on building MCP servers and clients with the Python SDK. `mcp`
+- **[MCP: Build Rich-Context AI Apps with Anthropic](https://www.deeplearning.ai/short-courses/mcp-build-rich-context-ai-apps-with-anthropic/)** — DeepLearning.AI short course on building and deploying MCP servers, taught by Anthropic. `mcp`
+- **[OpenAI Function Calling Guide](https://developers.openai.com/api/docs/guides/function-calling)** — OpenAI's guide to function calling: schemas, strict mode, streaming, and parallel calls. `tool-calling`
 
 ---
 [← Agents hub](../README.md)
