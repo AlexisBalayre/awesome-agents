@@ -9,6 +9,7 @@ Agent and multi-agent frameworks: orchestration, coordination, role-based system
 - **[AutoGen](https://github.com/microsoft/autogen)** — Microsoft's multi-agent framework, now in maintenance mode; succeeded by Microsoft Agent Framework. `multi-agent`
 - **[CrewAI](https://github.com/crewAIInc/crewAI)** — framework for orchestrating role-playing autonomous agents that collaborate on shared tasks. `multi-agent`
 - **[OpenAI Agents SDK](https://github.com/openai/openai-agents-python)** — provider-agnostic multi-agent framework with handoffs, guardrails, sessions, and built-in tracing. `multi-agent` `tool-calling`
+- **[Temporal](https://github.com/temporalio/temporal)** — durable execution engine that makes long-running agent workflows crash-proof and resumable. `durable-execution`
 - **[smolagents](https://github.com/huggingface/smolagents)** — barebones library for agents that think in code. `code-agents`
 - **[Claude Agent SDK (Python)](https://github.com/anthropics/claude-agent-sdk-python)** — official Python SDK for building agents on the harness that powers Claude Code. `claude` `mcp`
 - **[Deep Agents](https://github.com/langchain-ai/deepagents)** — opinionated, batteries-included agent harness on LangGraph that runs out of the box. `multi-agent`
