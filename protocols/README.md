@@ -11,6 +11,7 @@ MCP, A2A, tool/function calling — the standards and integrations that let agen
 - **[MCP Registry](https://github.com/modelcontextprotocol/registry)** — community-driven registry service for discovering and publishing MCP servers. `mcp`
 - **[langchain-mcp-adapters](https://github.com/langchain-ai/langchain-mcp-adapters)** — adapters connecting LangChain and LangGraph agents to MCP servers and tools. `mcp` `langchain`
 - **[MCPB](https://github.com/modelcontextprotocol/mcpb)** — bundle format for one-click local MCP server installation in desktop apps. `mcp` `packaging`
+- **[OpenAgentRelay](https://github.com/ShakespeareLabs/open-agent-relay)** — trusted-LAN relay for exposing an existing local agent or automation as a keyed, team-callable capability without distributing its source, prompts, dependencies, or credentials. `agent-to-agent` `local` `cli`
 
 ## Protocols & Standards
 <!-- add: MCP spec, A2A, tool schemas, ... -->
