@@ -4,6 +4,7 @@ Agent and multi-agent frameworks: orchestration, coordination, role-based system
 
 ## Tools & Libraries
 <!-- add: agent/orchestration frameworks — LangGraph, CrewAI, AutoGen, OpenAI Agents SDK, Claude Agent SDK, smolagents, ... -->
+- **[Agent QA](https://github.com/vostride/agent-qa)** — source-available TypeScript QA agent for natural-language web/mobile test flows with persistent memory, self-healing, MCP access, and structured evidence. `testing` `browser-automation` `mcp`
 - **[LangChain](https://github.com/langchain-ai/langchain)** — agent engineering platform; the de-facto entry point for LLM agent tooling. `tool-calling`
 - **[LangGraph](https://github.com/langchain-ai/langgraph)** — low-level orchestration framework for building stateful, resilient agents as graphs. `multi-agent`
 - **[AutoGen](https://github.com/microsoft/autogen)** — Microsoft's multi-agent framework, now in maintenance mode; succeeded by Microsoft Agent Framework. `multi-agent`
