@@ -5,6 +5,7 @@ Long-term memory, context management, and state for agents.
 ## Tools & Libraries
 <!-- add: memory frameworks, retrieval layers, context managers, ... -->
 - **[LangMem](https://github.com/langchain-ai/langmem)** — long-term memory SDK from LangChain; extracts and consolidates knowledge from agent conversations. `long-term-memory` `langgraph`
+- **[Hyperconsciousness](https://github.com/louis030195/hyperconsciousness)** — developer-alpha encrypted, append-only knowledge store with MCP access through scoped, expiring grants; build from source. `long-term-memory` `mcp` `local`
 
 ## Protocols & Standards
 <!-- memory/state interchange formats, ... -->
